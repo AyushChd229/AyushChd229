@@ -1,4 +1,4 @@
-<h1 align="center">Well Hello Guys Ayush Choudhary</h1>
+<h1 align="center">Well Hello Guys I am Ayush Choudhary</h1>
 <h3 align="center">Python (Tkinter) | UI UX Dev (Beginner) | SEO (Beginner)</h3>
 
 - 🌱 I’m currently learning **AMP (Engine Optimization) | Static Data Linkage (UI UX)**
