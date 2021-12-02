@@ -23,7 +23,7 @@ Hackathons , GSOC etc.? well Been working on all that.Watching Movies of Thrille
 
 - Weaknesses:Overthinking is the biggest weakness I have . Sometimes Vocubulary bites really hard as well so that effects the communication Skills and is kinda problematic. So Overcoming that is one of my major priority for now
 
-- Goals: I have been working on personal Project kinda thing which is , basically Using AI to assist SEO (generating Meta and Keywords with Minimal Traffic).For now Making it's Static Data is priority , And learning Web/App development Simulaneously to make further Progress. 
+- Goals: I have been working on personal Project kinda thing which is , basically Using AI to assist SEO (generating Meta and Keywords with Minimal Traffic).For now Making it's Static Data is priority , And learning Web/App development Simultaneously to make further Progress. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
