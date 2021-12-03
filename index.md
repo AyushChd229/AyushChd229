@@ -1,7 +1,7 @@
 <h1 align="center">Well Hello Guys Ayush Choudhary</h1>
 <h3 align="center">Python (Tkinter) | UI UX Dev (Beginner) | SEO (Beginner)</h3>
 
-- 🌱 I’m currently learning **AMP (Engine Optimization) | Static Data Linkage (UI UX)**
+- 🌱 I’m currently learning **AMP (Engine Optimization)** | **Static Data Linkage (UI UX)**
 
 - 💬 Recently I have learned about **UI UX And Stack linkage**
 
