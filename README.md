@@ -19,7 +19,7 @@
 - 3.)A Dance with Dragons  ( George R. R. Martin)
 
 - I love watching Formula Categories (Not "One" Specificly) , and Love karting as well though that depends on what's left in my monthly allowance. I won't say I am an Extrovert but I love interacting and making new connections. And the one thing I have been Excelling recently in is overthink the smallest things the are out there. I have been participating in Hacktoerfest since 2019 , Finally managed to get 4 Quality project related PRs Approved this year , Have participated in Google Clouds Event as well (But didn't completed the tasks due to time constraint) , So over the last couple of years , I have finally realised the passion I got for Programming and Leanring new things related to UI.
-Hackathons , GSOC etc.? well Been working on all that.Watching Movies of Thriller,Sci-fi,Comedy and Listenning Music, I don't Consider these as Hobbies because that's how the life goes on , Everyone have these in common
+Hackathons , GSOC etc.? well Been working on all that. Watching Movies , Listenning Music  I don't Consider these as Hobbies because that's how the life goes on , Everyone have these in common
 
 - Weaknesses:Overthinking is the biggest weakness I have . Sometimes Vocubulary bites really hard as well so that effects the communication Skills and is kinda problematic. So Overcoming that is one of my major priority for now
 
